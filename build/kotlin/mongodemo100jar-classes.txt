@@ -1,0 +1,1 @@
+/home/dan/workspace/IdeaProjects/mongo-demo/build/classes/kotlin/main/com/stalagbyte/mongodemo/Application.class:/home/dan/workspace/IdeaProjects/mongo-demo/build/classes/kotlin/main/com/stalagbyte/mongodemo/ApplicationKt.class
